@@ -1,0 +1,25 @@
+title: "Aparna Arun | Law Student"
+description: "Official resume website of Aparna Arun – B.A., LL.B (Hons.), Legal Research, Contract Review, Litigation Internships."
+url: "https://yourusername.github.io"
+baseurl: "/aparna-resume"
+
+author:
+  name: "Aparna Arun"
+  email: "aparnaarunpandian@gmail.com"
+  location: "Coimbatore, India"
+
+theme: null
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+
+collections:
+  pages:
+    output: true
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
